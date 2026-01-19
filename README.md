@@ -1,37 +1,40 @@
-# 2048 Game (Python + Pygame)
+# 🎮 2048 Game — Python + Pygame
 
-A simple implementation of the classic **2048 game** built using **Python** and **Pygame**.  
-The game follows the original 2048 rules where tiles slide and merge to reach the **2048 tile**.
-
----
-
-## 🎮 Features
-- Classic 4×4 2048 grid
-- Smooth keyboard controls (arrow keys)
-- Score tracking
-- High score saving
-- Game Over and Restart option
+A fun and interactive implementation of the classic **2048 puzzle game**, built from scratch using **Python** and **Pygame**.  
+Slide, merge, and strategize your way to the **2048 tile** — or beyond if you dare 😉
 
 ---
 
-## 🛠 Tech Stack
-- Python
-- Pygame
+## ✨ Highlights
+- 🎲 Classic **4×4 grid** gameplay
+- ⌨️ Responsive **keyboard controls**
+- 🧮 **Live score tracking**
+- 🏆 **High score persistence**
+- 🔄 **Restart option** after Game Over
+- 🎨 Clean and minimal UI using Pygame
+
+---
+
+## 🛠️ Tech Stack
+- **Python**
+- **Pygame**
 
 ---
 
 ## 🎯 Controls
-- **Up Arrow** → Move tiles up  
-- **Down Arrow** → Move tiles down  
-- **Left Arrow** → Move tiles left  
-- **Right Arrow** → Move tiles right  
-- **Enter** → Restart game after Game Over  
+| Key | Action |
+|----|-------|
+| ⬆️ Up Arrow | Move tiles up |
+| ⬇️ Down Arrow | Move tiles down |
+| ⬅️ Left Arrow | Move tiles left |
+| ➡️ Right Arrow | Move tiles right |
+| ⏎ Enter | Restart after Game Over |
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run Locally
 
-1. Make sure Python is installed  
-2. Install Pygame:
+1. Ensure **Python 3.x** is installed  
+2. Install dependencies:
    ```bash
    pip install pygame
